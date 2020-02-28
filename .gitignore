@@ -3,3 +3,13 @@
 ################################################################################
 
 /XUnitEntities/obj
+/XUnitEntities/bin/Debug/netstandard2.0
+/XUnitLab/bin/Debug/netcoreapp2.1
+/.vs/XUnitLab
+/XUnitLab/obj
+/XUnitRepository/bin/Debug/netstandard2.0
+/XUnitRepository/obj
+/XUnitServices/bin/Debug/netstandard2.0
+/XUnitServices/obj
+/XUnitTest/bin/Debug/netcoreapp2.1
+/XUnitTest/obj
