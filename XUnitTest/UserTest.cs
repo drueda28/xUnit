@@ -18,7 +18,7 @@ namespace XUnitTest
         [Fact]
         public void Return_Amount_User_Test()
         {
-            //arrange
+            //Arrange
             List<User> userList = new List<User>()
             {
                 new User()
